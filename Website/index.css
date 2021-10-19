@@ -22,3 +22,7 @@ tr:nth-child(even){
 tr:nth-child(odd){
     background-color: salmon;
 }
+iframe{
+    width: 100%;
+    height: 400px;
+}
